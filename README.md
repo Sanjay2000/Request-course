@@ -14,5 +14,5 @@ Requests is an Apache2 Licensed HTTP library, written in Python. Requests will a
     pip3 install requests
 
 ### Instructions to run the code
-If you want to run the code in Linux, open your terminal and type- python3 
+If you want to run the code in Linux, open your terminal and type- python3 reqst.py
 
