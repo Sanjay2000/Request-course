@@ -4,6 +4,8 @@ how can we request to the server to take a DATA
 
 ### Python-Requests-API
 In this project, I have learnt how to make requests using Requests module in Python. I have also saved the list of all the courses in file.json file.
+#### Requests Library
+Requests is an Apache2 Licensed HTTP library, written in Python. Requ
 
 ### Requirements
 #### Requests Library
@@ -13,3 +15,4 @@ Requests is an Apache2 Licensed HTTP library, written in Python. Requests will a
 
 ### Instructions to run the code
 If you want to run the code in Linux, open your terminal and type- python3 
+
